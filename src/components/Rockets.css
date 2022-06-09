@@ -1,0 +1,56 @@
+.RocketList{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    
+}
+.image{
+    width: 500px;
+    height: 500px;
+}
+.name{
+    font-size: 30px;
+    margin-left: 460px;
+    color: white;
+}
+
+.rocket_name{
+    font-size: 20px;
+    color: white;
+}
+
+.card{
+    background-color: rgb(83, 92, 92);
+    padding: 20px;
+    height: 500px;
+    border-radius: 20px;
+}
+.date{
+    color: white;
+}
+.description{
+    color: white;
+    font-size: 20px;
+}
+
+.wikipedia{
+    color: white;
+    font-size: 20px;
+}
+.country{
+    color: white;
+    font-size: 20px;
+}
+
+.firstcard{
+    border: 1px solid black;
+    padding: 10px;
+    background-color: rgb(241, 238, 232);
+    border-radius: 10px;
+}
+.firstname{
+    color:  black;
+    text-decoration: none;
+    font-size: 20px;
+
+}
